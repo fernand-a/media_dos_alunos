@@ -9,7 +9,7 @@ Inicio
 		Dividir o total da soma na quantidade de notas
 		Exibir a media dos alunos
 	Enquanto Aluno com nota maior ou igual a cinco?
-		Exibir Parabéns, você foi aptovado!
+		Exibir Parabéns, você foi aprovado!
 	Fim Enquanto
 	Fim Enquanto
 	Fim Enquanto
