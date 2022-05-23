@@ -4,7 +4,10 @@ Inicio
 
 	Enquanto Existem disciplinas? Faça
 	Enquanto Existem alunos? Faça
-		Ler as notas dos alunos
+		Ler nota da ac1
+		Ler nota da ac2
+		Ler nota da ag
+		Ler nota da af
 		Somar as notas dos alunos
 		Dividir o total da soma na quantidade de notas
 		Exibir a media dos alunos
@@ -17,4 +20,5 @@ Inicio
 Fim
 
 
-![Fluxograma média de alunos](https://user-images.githubusercontent.com/65674963/168699173-39ca03f9-c810-483f-9efe-657427801f07.png)
+
+![Fluxograma média de alunos - MediaAlunos](https://user-images.githubusercontent.com/65674963/169880106-7371aefb-055e-419e-bb05-3d2eb0fe1245.png)
